@@ -1,4 +1,4 @@
-# sistema financiero colombiano
+# sistema-financiero-colombiano
 
 ## Project setup
 ```
